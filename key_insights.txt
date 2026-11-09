@@ -1,0 +1,38 @@
+KEY INSIGHTS - ATM & CARD STATISTICS, SEPTEMBER 2026
+============================================================
+Banks in dataset: 63 | Active (have ATMs): 46
+
+SCALE
+- Total ATMs/CRMs: 209,761  (off-site share 34.8%)
+- PoS terminals: 10,419,206
+- UPI QR codes: 885,504,973 | Bharat QR: 5,340,323
+- Credit cards: 125.3 mn | Debit cards: 1,039.7 mn
+- Credit card spend: Rs 203,938 crore | Debit card spend: Rs 34,070 crore
+- ATM cash withdrawn: Rs 219,514 crore
+
+CASH vs DIGITAL
+- Debit cards: Rs 219,131 cr taken out as cash vs Rs 34,070 cr spent (cash = 86.5% of debit value)
+- Credit cards: e-com is 61.8% of spend; cash advances are only 0.19%
+
+CATEGORY VIEW
+- Foreign Banks: 0.4% of ATMs, 4.8% of credit spend, 1.0% of debit spend
+- Payment Banks: 0.0% of ATMs, 0.0% of credit spend, 0.2% of debit spend
+- Private Sector Banks: 33.7% of ATMs, 73.8% of credit spend, 54.0% of debit spend
+- Public Sector Banks: 64.3% of ATMs, 20.4% of credit spend, 44.0% of debit spend
+- Small Finance Banks: 1.6% of ATMs, 1.1% of credit spend, 0.8% of debit spend
+
+CONCENTRATION
+- ATMs: top-1 = STATE BANK OF INDIA (31.1%), top-5 = 58.4%, HHI = 1279
+- Credit cards: top-1 = HDFC BANK LTD (21.8%), top-5 = 73.4%, HHI = 1321
+- Debit cards: top-1 = STATE BANK OF INDIA (24.9%), top-5 = 50.2%, HHI = 909
+- Credit card spend: top-1 = HDFC BANK LTD (31.9%), top-5 = 79.0%, HHI = 1726
+- Debit card spend: top-1 = STATE BANK OF INDIA (24.0%), top-5 = 68.5%, HHI = 1259
+- PoS terminals: top-1 = RBL BANK LTD (26.8%), top-5 = 91.4%, HHI = 2079
+- UPI QR codes: top-1 = YES BANK LTD (72.1%), top-5 = 96.2%, HHI = 5673
+
+STANDOUTS
+- Highest spend per credit card (1L+ cards): AMERICAN EXPRESS BANKING CORPORATION - Rs 47,204/card
+- Most cash-dependent debit base (10L+ cards): UJJIVAN SMALL FINANCE BANK LTD - 97.0%
+- Least cash-dependent debit base (10L+ cards): HSBC LTD - 46.4%
+- Most stretched ATM network (cards per ATM, 100+ ATMs): KOTAK MAHINDRA BANK LTD - 15,801
+- Banks with cards but ZERO ATMs: 16 -> Nainital, American Express, Bank Of Bahrain & Kuwait B.S.C., Barclays Plc, Citi, Keb Hana, Kookmin, Sbm India, Woori, Airtel Pb, Fino Pb, India Post Pb, Jio Pb, Nsdl Pb, Shivalik Sfb, Suryoday Sfb
